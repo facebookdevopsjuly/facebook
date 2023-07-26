@@ -1,3 +1,3 @@
 this file contatins db coonections
 created the development branch
-adding the code in master branch
+added the line in master branch
