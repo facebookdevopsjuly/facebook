@@ -1,3 +1,2 @@
 Hello
-this file contains java cod
-development is completed
+this file contains java code
